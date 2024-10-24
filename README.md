@@ -1,8 +1,8 @@
 # WorkShop1_MAD
 
 ## Date: 24/10/2024
-## Name: Alluguri Srikrishna Teja
-## Reg.no: 212222040006
+## Name: Hemapriya R
+## Reg.no: 212222040055
 ## Developing an Android Application Pass The Data Between The Activities Using Intent
 
 ## Procedure:
